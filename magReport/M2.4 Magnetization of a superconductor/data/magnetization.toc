@@ -1,0 +1,16 @@
+\contentsline {chapter}{\numberline {1}Theoretical Background}{1}{chapter.1}
+\contentsline {section}{\numberline {1.1}Superconductivity}{1}{section.1.1}
+\contentsline {section}{\numberline {1.2}Magnetization of a superconductor}{3}{section.1.2}
+\contentsline {subsubsection}{Demagnetizing factor}{4}{subsubsection*.7}
+\contentsline {subsubsection}{London Equation}{5}{subsubsection*.10}
+\contentsline {subsubsection}{Coherence Length}{6}{subsubsection*.12}
+\contentsline {subsubsection}{Intermediate state}{6}{subsubsection*.13}
+\contentsline {subsubsection}{ Meissner fraction}{7}{subsubsection*.16}
+\contentsline {subsection}{\numberline {1.2.1}Thermodynamical approach of superconductivity}{7}{subsection.1.2.1}
+\contentsline {subsection}{\numberline {1.2.2}BCS theory of Superconductivity}{9}{subsection.1.2.2}
+\contentsline {subsubsection}{Superconducting ring}{9}{subsubsection*.19}
+\contentsline {chapter}{\numberline {2}Experimental Setup}{11}{chapter.2}
+\contentsline {chapter}{\numberline {3}Analysis}{13}{chapter.3}
+\contentsline {section}{\numberline {3.1}Magnetization curves characterized by temperature}{13}{section.3.1}
+\contentsline {section}{\numberline {3.2}Flux change curves characterized by field strength }{21}{section.3.2}
+\contentsline {chapter}{Bibliography}{25}{chapter*.48}
