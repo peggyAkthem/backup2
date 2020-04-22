@@ -1,0 +1,13 @@
+git pull   ## calls for server files to your machine
+git add .  ## add new changes to the upload pipeline
+git commit-m "<message>" ## commits your changes to upload to the server
+
+git push ## push your changes to existing branch in the server
+
+git push --set-upstream origin <branchName>  ## push your changes to the new branch being made
+
+git checkout <branchname>   ## change local base to the target branch
+
+git checkout -b <branchanme>  ## create a new branch based on the branch you are on right now (base)
+
+git merge <branchname>  ## merges the target branch in your active base (branch)
